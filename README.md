@@ -77,6 +77,6 @@ If you’d like to suggest palettes, improve the ML model, or prototype UI/UX fe
 ---
 ## License 
 
-© 2025 Stress Project — Created by [Blessing](https://github.com/codedbyblessing).  
+© 2025 Mind Tint — Created by [Blessing](https://github.com/codedbyblessing).  
 This project is open-sourced under the [MIT License](./LICENSE).  
 Feel free to modify, and distribute this project with proper attribution.
