@@ -63,7 +63,7 @@ Full palette documentation: [Notion Workspace](https://www.notion.so/Web-Safe-Pa
 
 ---
 
-## Possible expantions...  
+## Possible expansions...  
 - Browser extension for theme adaptation  
 - Integration into Notion / Docs as a **“mindful mode”**  
 - User personalization (preferred calm palettes)  
