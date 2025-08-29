@@ -6,8 +6,6 @@ This project will help me explore how **machine learning stress prediction** can
 
 Inspired by **Notion’s white variation color theme**, this project tests how color and theme variations affect stress levels when working on digital platforms.  
 
-[![Notion palette doc preview](https://img.shields.io/badge/Notion-Workspace-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Web-Safe-Palette-for-Stress-Levels-and-Emotions-25eeba08e15e80e0b596e4a063d51a41?source=copy_link)
-
 ---
 
 ## Targets to meet:   
@@ -34,6 +32,8 @@ Inspired by **Notion’s white variation color theme**, this project tests how c
 | High         | Dark / Low Stimulus | `#2E2E2E` · `#1C1C1C` | Reduce glare & overstimulation |
 
 Full palette documentation: [Notion Workspace](https://www.notion.so/Web-Safe-Palette-for-Stress-Levels-and-Emotions-25eeba08e15e80e0b596e4a063d51a41?source=copy_link).  
+
+[![Notion palette doc preview](https://img.shields.io/badge/Notion-Workspace-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Web-Safe-Palette-for-Stress-Levels-and-Emotions-25eeba08e15e80e0b596e4a063d51a41?source=copy_link)
 
 ---
 
